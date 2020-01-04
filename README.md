@@ -1,5 +1,5 @@
 # questrade-interface
-Interface to Questrade using their API in order to extract account data
+Interface to Questrade using their API for extracting account data
 
 This code can be run in Excel using a VBA macro.
 
